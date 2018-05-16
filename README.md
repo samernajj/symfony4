@@ -15,7 +15,7 @@ To create your new Symfony application, first make sure you're using PHP 7.1 or 
 git clone https://github.com/samernajj/symfony4.git
 ```
 
-2- got to the project
+2- go to the project
 ```
 cd symfony4
 ```
